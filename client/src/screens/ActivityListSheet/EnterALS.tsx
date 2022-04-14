@@ -1,6 +1,6 @@
 import React from 'react'
 
-import {Container,Button,Table, Form, Row, Col} from 'react-bootstrap'
+import {Table, Form} from 'react-bootstrap'
 
 
 const EnterALS: React.FC = () => {
